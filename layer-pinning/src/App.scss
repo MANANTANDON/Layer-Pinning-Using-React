@@ -1,0 +1,14 @@
+html, body { height: 100vh; }
+.panel {
+  height: 100vh;
+  position: sticky;
+  top: 0px;
+  border-radius: 15px;
+  padding: 7px;
+}
+
+.endPanel{
+  text-align: center;
+  background-color: white;
+  margin: 100px;
+}
